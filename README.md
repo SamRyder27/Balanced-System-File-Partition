@@ -38,4 +38,10 @@ parent = [-1,0,1,2]
 files_size = [1,4,3,4]
 Sample Output
 2
+Sample Input
+parent = [-1,0,0,0]
+files_size = [10,11,10,10]
+Sample Output
+19
+
                             
