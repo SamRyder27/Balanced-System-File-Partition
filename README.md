@@ -44,4 +44,7 @@ files_size = [10,11,10,10]
 Sample Output
 19
 
+https://i.stack.imgur.com/Yr2QU.png
+                            ![image](https://user-images.githubusercontent.com/52661102/126858820-0b1638a8-58d2-46f9-8600-c6bdfedd6170.png)
+
                             
